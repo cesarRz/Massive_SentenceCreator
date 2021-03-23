@@ -1,0 +1,16 @@
+1. Use "Browse files" button to select the CSV file from where you want to create the massive sentences
+2. Type the sentence you want, replacing the column value with the name of the column with a @ before. Example:
+
+| Name  | University | Class       |
+| Cesar | Anahuac    | Programming |
+
+The written phrase could be:    
+    
+    "@Name is taking @Class at @University".
+
+Which will show as:
+
+    "Cesar is taking Programming at Anahuac".
+
+Then just save the file.
+
